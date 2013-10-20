@@ -293,4 +293,6 @@ public class CopyFile {
 		long end1 = System.currentTimeMillis();
 		System.out.println("BufferedReader,BufferedWriter : " + (end1 - start1));
 	}
+	
+	//我日，你写这是啥
 }
